@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:background="#ffcc"
+    >
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:text="1月"
+    android:background="@drawable/shape_circle_blue"
+    android:textSize="20sp"
+    android:gravity="center"
+    android:layout_height="match_parent" />
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:text="2月"
+    android:gravity="center"
+    android:layout_height="match_parent" />
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:text="3月"
+    android:gravity="center"
+    android:layout_height="match_parent" />
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:text="4月"
+    android:gravity="center"
+    android:layout_height="match_parent" />
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:text="5月"
+    android:gravity="center"
+    android:layout_height="match_parent" />
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:text="6月"
+    android:gravity="center"
+    android:layout_height="match_parent" />
+</LinearLayout>
